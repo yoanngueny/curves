@@ -61,7 +61,7 @@
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
     "core-js": "^3.16.1",
-    "d3": "^7.0.0",
+    "d3": "^7.1.1",
     "lodash": "^4.17.21",
     "postprocessing": "^6.23.1",
     "three": "^0.133.1",
